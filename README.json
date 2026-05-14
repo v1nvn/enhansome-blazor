@@ -68,7 +68,7 @@
             "last_commit": "2026-05-04T01:32:37Z",
             "owner": "dotnet",
             "repo": "eShop",
-            "stars": 10446
+            "stars": 10448
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2021-02-23T15:13:56Z",
             "owner": "dotnet",
             "repo": "blazor",
-            "stars": 9281
+            "stars": 9280
           }
         },
         {
@@ -91,10 +91,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-13T02:02:25Z",
+            "last_commit": "2026-05-14T02:03:57Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 37928
+            "stars": 37930
           }
         },
         {
@@ -125,7 +125,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-12T12:42:55Z",
+            "last_commit": "2026-05-13T11:15:59Z",
             "owner": "bitfoundation",
             "repo": "bitplatform",
             "stars": 1360
@@ -195,7 +195,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-07T23:28:22Z",
+            "last_commit": "2026-05-13T23:20:49Z",
             "owner": "neozhu",
             "repo": "CleanArchitectureWithBlazorServer",
             "stars": 1206
@@ -277,7 +277,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-12T12:29:30Z",
+            "last_commit": "2026-05-13T08:58:00Z",
             "owner": "Aguafrommars",
             "repo": "TheIdServer",
             "stars": 755
@@ -364,7 +364,7 @@
             "last_commit": "2026-03-30T13:53:22Z",
             "owner": "fluentcms",
             "repo": "FluentCMS",
-            "stars": 546
+            "stars": 547
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-05-07T19:15:54Z",
             "owner": "oqtane",
             "repo": "oqtane.framework",
-            "stars": 2248
+            "stars": 2247
           }
         },
         {
@@ -640,7 +640,7 @@
             "last_commit": "2025-11-25T01:44:35Z",
             "owner": "isaacrlevin",
             "repo": "presencelight",
-            "stars": 440
+            "stars": 441
           }
         },
         {
@@ -672,7 +672,7 @@
             "last_commit": "2024-07-27T09:39:50Z",
             "owner": "dotnet",
             "repo": "machinelearning-samples",
-            "stars": 4684
+            "stars": 4683
           }
         },
         {
@@ -730,7 +730,7 @@
             "last_commit": "2026-05-07T19:15:54Z",
             "owner": "oqtane",
             "repo": "oqtane.framework",
-            "stars": 2248
+            "stars": 2247
           }
         },
         {
@@ -743,7 +743,7 @@
             "last_commit": "2024-10-10T16:00:42Z",
             "owner": "dotnetcore",
             "repo": "WTM",
-            "stars": 4355
+            "stars": 4354
           }
         }
       ],
@@ -885,7 +885,7 @@
             "last_commit": "2025-09-10T11:17:08Z",
             "owner": "KristofferStrube",
             "repo": "Blazor.SVGEditor",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -950,7 +950,7 @@
             "last_commit": "2025-09-10T11:17:08Z",
             "owner": "KristofferStrube",
             "repo": "Blazor.SVGEditor",
-            "stars": 337
+            "stars": 338
           }
         },
         {
@@ -1265,10 +1265,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-13T05:38:55Z",
+            "last_commit": "2026-05-14T05:34:08Z",
             "owner": "dotnetcore",
             "repo": "BootstrapBlazor",
-            "stars": 4675
+            "stars": 4678
           }
         },
         {
@@ -1291,10 +1291,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-13T05:01:58Z",
+            "last_commit": "2026-05-13T21:59:10Z",
             "owner": "MudBlazor",
             "repo": "MudBlazor",
-            "stars": 10388
+            "stars": 10390
           }
         },
         {
@@ -1317,10 +1317,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-12T14:50:17Z",
+            "last_commit": "2026-05-13T09:49:45Z",
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3518
+            "stars": 3519
           }
         },
         {
@@ -1343,7 +1343,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-12T10:50:34Z",
+            "last_commit": "2026-05-13T12:37:38Z",
             "owner": "radzenhq",
             "repo": "radzen-blazor",
             "stars": 4230
@@ -1369,7 +1369,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-03-18T03:58:52Z",
+            "last_commit": "2026-05-13T20:54:08Z",
             "owner": "vikramlearning",
             "repo": "blazorbootstrap",
             "stars": 1220
@@ -1382,10 +1382,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-12T20:24:28Z",
+            "last_commit": "2026-05-13T20:13:01Z",
             "owner": "microsoft",
             "repo": "fluentui-blazor",
-            "stars": 4725
+            "stars": 4726
           }
         },
         {
@@ -1522,7 +1522,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-11T08:16:49Z",
+            "last_commit": "2026-05-13T08:53:49Z",
             "owner": "panoramicdata",
             "repo": "PanoramicData.Blazor",
             "stars": 56
@@ -1535,7 +1535,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-13T00:30:25Z",
+            "last_commit": "2026-05-13T08:56:02Z",
             "owner": "havit",
             "repo": "Havit.Blazor",
             "stars": 594
@@ -1628,10 +1628,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-13T03:13:39Z",
+            "last_commit": "2026-05-14T01:13:12Z",
             "owner": "abpframework",
             "repo": "abp",
-            "stars": 14252
+            "stars": 14251
           }
         },
         {
@@ -2072,7 +2072,7 @@
             "last_commit": "2026-05-11T22:59:01Z",
             "owner": "bUnit-dev",
             "repo": "bUnit",
-            "stars": 1290
+            "stars": 1292
           }
         },
         {
@@ -2104,7 +2104,7 @@
             "last_commit": "2026-05-06T17:31:54Z",
             "owner": "servicetitan",
             "repo": "Stl.Fusion",
-            "stars": 1890
+            "stars": 1889
           }
         },
         {
@@ -2169,7 +2169,7 @@
             "last_commit": "2026-04-14T19:04:06Z",
             "owner": "KristofferStrube",
             "repo": "Blazor.FileSystemAccess",
-            "stars": 370
+            "stars": 371
           }
         },
         {
@@ -2591,7 +2591,7 @@
             "last_commit": "2026-01-22T18:57:58Z",
             "owner": "TimeWarpEngineering",
             "repo": "timewarp-state",
-            "stars": 614
+            "stars": 613
           }
         },
         {
@@ -2604,7 +2604,7 @@
             "last_commit": "2026-05-11T22:59:01Z",
             "owner": "bUnit-dev",
             "repo": "bUnit",
-            "stars": 1290
+            "stars": 1292
           }
         },
         {
@@ -2656,7 +2656,7 @@
             "last_commit": "2026-04-14T19:04:06Z",
             "owner": "KristofferStrube",
             "repo": "Blazor.FileSystemAccess",
-            "stars": 370
+            "stars": 371
           }
         },
         {
@@ -2838,7 +2838,7 @@
             "last_commit": "2026-05-11T23:24:49Z",
             "owner": "jsakamoto",
             "repo": "Toolbelt.Blazor.HotKeys2",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -3027,7 +3027,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-12T21:07:46Z",
+            "last_commit": "2026-05-13T09:09:49Z",
             "owner": "IvanJosipovic",
             "repo": "BlazorApplicationInsights",
             "stars": 209
@@ -4173,7 +4173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:39:19.293Z",
+    "last_updated": "2026-05-14T05:38:55.967Z",
     "original_repository": "AdrienTorris/awesome-blazor",
     "source_repository": "v1nvn/enhansome-blazor",
     "source_repository_description": null,
